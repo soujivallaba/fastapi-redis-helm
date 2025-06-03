@@ -1,0 +1,4 @@
+image:
+  repository: tiangolo/uvicorn-gunicorn-fastapi
+  tag: python3.8
+  pullPolicy: IfNotPresent
