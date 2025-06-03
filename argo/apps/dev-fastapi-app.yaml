@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/man2611/fastapi-redis-helm.git
+    repoURL: https://github.com/soujivallaba/fastapi-redis-helm.git
     targetRevision: HEAD
     path: charts
     helm:
